@@ -1,0 +1,8 @@
+# Ignoruj katalogi z danymi
+transport/bus/
+transport/plane/
+transport/ship/
+transport/train/
+
+# Ignoruj pliki systemowe macOS
+.DS_Store
